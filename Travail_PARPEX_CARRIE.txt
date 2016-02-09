@@ -1,0 +1,7 @@
+Travail non fonctionnel 
+
+Les difficultés rencontré sont surtout lié a l'utilisation du code example "slidingtabscolor" qu'on n'a pas réussi a adapté a notre projet. Peut-être que la structuré était trop compliqué pour ce projet paraissant simple.
+
+Nous avons effectué le travail à 2, car Stéphanie a toujours des problèmes avec son android studio, ainsi que son émulateur. 
+
+En nous excusant du retard d'une journée.

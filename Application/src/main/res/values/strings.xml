@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tab_choose">Choisir</string>
+    <string name="tab_view">Regarder</string>
+
+    <!-- Animaux -->
+    <string name="tag_animal_dog">Dog</string>
+    <string name="tag_animal_mouse">Mouse</string>
+    <string name="tag_animal_duck">Duck</string>
+
+</resources>
